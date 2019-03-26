@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 
 namespace Equilibrium
@@ -14,15 +14,16 @@ namespace Equilibrium
 
         public static void BalancePointOpt(int[] a)
         {
-            if (a.Length == 0)
+            if (a.Length <= 2)
             {
-                Console.WriteLine("Error!");
+                Console.WriteLine("No equilibrium point");
             }
 
             int sum = a.Sum();
             int sumLeft = 0;
-            for (int i = 0; i < a.Length; i++)
+            for (int i = 1; i < a.Length; i++)
             {
+                sumLeft += a[i - 1];
                 int sumRight = sum - sumLeft - a[i];
                 if (sumRight == sumLeft)
                 {
