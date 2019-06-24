@@ -1,0 +1,11 @@
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/obj/Debug/netcoreapp2.2/HashTableBook.csprojAssemblyReference.cache
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/obj/Debug/netcoreapp2.2/HashTableBook.csproj.CoreCompileInputs.cache
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/obj/Debug/netcoreapp2.2/HashTableBook.AssemblyInfoInputs.cache
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/obj/Debug/netcoreapp2.2/HashTableBook.AssemblyInfo.cs
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/bin/Debug/netcoreapp2.2/HashTableBook.deps.json
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/bin/Debug/netcoreapp2.2/HashTableBook.runtimeconfig.json
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/bin/Debug/netcoreapp2.2/HashTableBook.runtimeconfig.dev.json
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/bin/Debug/netcoreapp2.2/HashTableBook.dll
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/bin/Debug/netcoreapp2.2/HashTableBook.pdb
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/obj/Debug/netcoreapp2.2/HashTableBook.dll
+/Users/jonsun/RiderProjects/HashTableBook/HashTableBook/obj/Debug/netcoreapp2.2/HashTableBook.pdb

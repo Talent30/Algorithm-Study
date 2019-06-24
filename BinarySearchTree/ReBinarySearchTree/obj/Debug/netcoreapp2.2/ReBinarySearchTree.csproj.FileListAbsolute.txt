@@ -1,0 +1,11 @@
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/bin/Debug/netcoreapp2.2/ReBinarySearchTree.deps.json
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/bin/Debug/netcoreapp2.2/ReBinarySearchTree.runtimeconfig.json
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/bin/Debug/netcoreapp2.2/ReBinarySearchTree.runtimeconfig.dev.json
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/bin/Debug/netcoreapp2.2/ReBinarySearchTree.dll
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/bin/Debug/netcoreapp2.2/ReBinarySearchTree.pdb
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/obj/Debug/netcoreapp2.2/ReBinarySearchTree.csprojAssemblyReference.cache
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/obj/Debug/netcoreapp2.2/ReBinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/obj/Debug/netcoreapp2.2/ReBinarySearchTree.AssemblyInfoInputs.cache
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/obj/Debug/netcoreapp2.2/ReBinarySearchTree.AssemblyInfo.cs
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/obj/Debug/netcoreapp2.2/ReBinarySearchTree.dll
+/Users/jonsun/RiderProjects/ReBinarySearchTree/ReBinarySearchTree/obj/Debug/netcoreapp2.2/ReBinarySearchTree.pdb

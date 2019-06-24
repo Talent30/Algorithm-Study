@@ -1,0 +1,11 @@
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/bin/Debug/netcoreapp2.2/SLLProgram.deps.json
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/bin/Debug/netcoreapp2.2/SLLProgram.runtimeconfig.json
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/bin/Debug/netcoreapp2.2/SLLProgram.runtimeconfig.dev.json
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/bin/Debug/netcoreapp2.2/SLLProgram.dll
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/bin/Debug/netcoreapp2.2/SLLProgram.pdb
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/obj/Debug/netcoreapp2.2/SLLProgram.csprojAssemblyReference.cache
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/obj/Debug/netcoreapp2.2/SLLProgram.csproj.CoreCompileInputs.cache
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/obj/Debug/netcoreapp2.2/SLLProgram.AssemblyInfoInputs.cache
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/obj/Debug/netcoreapp2.2/SLLProgram.AssemblyInfo.cs
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/obj/Debug/netcoreapp2.2/SLLProgram.dll
+/Users/jonsun/RiderProjects/SLLProgram/SLLProgram/obj/Debug/netcoreapp2.2/SLLProgram.pdb

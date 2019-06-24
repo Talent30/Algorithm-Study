@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping", "Swapping\Swapping.csproj", "{AB7C1F3F-C781-4E23-9536-E25FD2D34055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7C1F3F-C781-4E23-9536-E25FD2D34055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7C1F3F-C781-4E23-9536-E25FD2D34055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7C1F3F-C781-4E23-9536-E25FD2D34055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7C1F3F-C781-4E23-9536-E25FD2D34055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

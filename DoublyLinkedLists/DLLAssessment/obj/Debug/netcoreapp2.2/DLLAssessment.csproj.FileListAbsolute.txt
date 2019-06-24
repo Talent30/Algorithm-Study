@@ -1,0 +1,11 @@
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/obj/Debug/netcoreapp2.2/DLLAssessment.csprojAssemblyReference.cache
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/obj/Debug/netcoreapp2.2/DLLAssessment.csproj.CoreCompileInputs.cache
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/obj/Debug/netcoreapp2.2/DLLAssessment.AssemblyInfoInputs.cache
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/obj/Debug/netcoreapp2.2/DLLAssessment.AssemblyInfo.cs
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/bin/Debug/netcoreapp2.2/DLLAssessment.deps.json
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/bin/Debug/netcoreapp2.2/DLLAssessment.runtimeconfig.json
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/bin/Debug/netcoreapp2.2/DLLAssessment.runtimeconfig.dev.json
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/bin/Debug/netcoreapp2.2/DLLAssessment.dll
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/bin/Debug/netcoreapp2.2/DLLAssessment.pdb
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/obj/Debug/netcoreapp2.2/DLLAssessment.dll
+/Users/jonsun/RiderProjects/DLLAssessment/DLLAssessment/obj/Debug/netcoreapp2.2/DLLAssessment.pdb

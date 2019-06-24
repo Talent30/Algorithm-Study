@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f265c98-a55a-4ec4-ab7b-bf3ace83f7e8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DLLAssessment/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" selection-start-line="9" selection-end-line="50" selection-end-column="13" />
+              <folding>
+                <marker date="1555835705942" expanded="false" signature="6:30" ph="..." />
+                <marker date="1555835705942" expanded="true" signature="55:9420" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="75:9418" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="108:3582" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="216:460" ph="/* 1. Reads the integers in file1.txt, file2.txt and file3.txt and inserts them ... */" />
+                <marker date="1555835705942" expanded="true" signature="609:783" ph="/* Users/jonsun/Desktop/QUICKfile1.txt ... */" />
+                <marker date="1555835705942" expanded="true" signature="849:1760" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="1354:1555" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="1590:1746" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="3621:3893" ph="/// This method use File.IO read all text and split unnecessary information convert and add elements to list ... " />
+                <marker date="1555835705942" expanded="true" signature="3965:4648" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="4229:4337" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="4351:4638" ph="/* string[] aFileContent = fileContent.Split(','); ... */" />
+                <marker date="1555835705942" expanded="true" signature="4691:4902" ph="/// Receive a string split elements and return a list ... " />
+                <marker date="1555835705942" expanded="true" signature="4972:5501" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="5141:5422" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="5193:5311" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="5332:5408" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="5548:6642" ph="/* This program is my own split method, read and create a substring add to list ... */" />
+                <marker date="1555835705942" expanded="true" signature="6653:6924" ph="/// The purpose of this method is to skip the duplicate elements and print the return intersection list ... " />
+                <marker date="1555835705942" expanded="true" signature="7018:7572" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="7190:7562" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="7366:7402" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="7424:7513" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="7624:7930" ph="/// This method will receive three lists  ... " />
+                <marker date="1555835705942" expanded="true" signature="8033:9374" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="8395:9364" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="8553:8793" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="8917:8993" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="9117:9193" ph="{...}" />
+                <marker date="1555835705942" expanded="true" signature="9274:9350" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DLLAssessment/NodeList.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-399">
+              <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+              <folding>
+                <marker date="1555643885277" expanded="true" signature="38:8423" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="66:8421" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="182:252" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="301:414" ph="/// //add value to the tail ... " />
+                <marker date="1555643885277" expanded="true" signature="454:903" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="618:704" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="768:893" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="946:1033" ph="/// Print node value from head to the tail ... " />
+                <marker date="1555643885277" expanded="true" signature="1063:1500" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="1271:1426" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="1510:1647" ph="/// go through the list, increment counter after node ... " />
+                <marker date="1555643885277" expanded="true" signature="1678:2118" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="1876:2040" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="2162:2485" ph="/// Get the median value of the list ... " />
+                <marker date="1555643885277" expanded="true" signature="2516:3834" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="2850:3796" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="2963:3179" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="3357:3597" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="3618:3782" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="3875:3978" ph="/// This method will use QuickSort method to sort the list ... " />
+                <marker date="1555643885277" expanded="true" signature="4005:4195" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="4234:4393" ph="/// QuickSort on Doubly Linked List ... " />
+                <marker date="1555643885277" expanded="true" signature="4445:4960" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="4468:4602" ph="/* - high is not out of boundary and ... */" />
+                <marker date="1555643885277" expanded="true" signature="4667:4950" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="4970:5290" ph="/// This method will ... " />
+                <marker date="1555643885277" expanded="true" signature="5342:6026" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="5531:5831" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="5588:5817" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="6070:6268" ph="/* public Node GetLast(Node node) ... */" />
+                <marker date="1555643885277" expanded="true" signature="6278:6381" ph="/// Using IsPrime to print prime number(5 elements a line) ... " />
+                <marker date="1555643885277" expanded="true" signature="6414:7044" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="6547:7000" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="6602:6950" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="6843:6932" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="7089:7245" ph="/// ignore all the even number expect 2  ... " />
+                <marker date="1555643885277" expanded="true" signature="7283:7987" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="7805:7951" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="8029:8110" ph="/// print the list from tail to head ... " />
+                <marker date="1555643885277" expanded="true" signature="8147:8375" ph="{...}" />
+                <marker date="1555643885277" expanded="true" signature="8220:8331" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DLLAssessment/Node.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <marker date="1555474240493" expanded="true" signature="23:307" ph="{...}" />
+                <marker date="1555474240493" expanded="true" signature="47:305" ph="{...}" />
+                <marker date="1555474240493" expanded="true" signature="202:299" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DLLAssessment/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DLLAssessment/NodeList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DLLAssessment/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/LiveStock/LiveStock/Cow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/WindowsFormsApp1/WindowsFormsApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/WindowsFormsApp1/WindowsFormsApp1/Form1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/SLLprogram/SLLprogram/SLL.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DLLAssessment/DLList.cs" />
+        <option value="$PROJECT_DIR$/DLLAssessment/Node.cs" />
+        <option value="$PROJECT_DIR$/DLLAssessment/StringNode.cs" />
+        <option value="$PROJECT_DIR$/DLLAssessment/StringNodeList.cs" />
+        <option value="$PROJECT_DIR$/DLLAssessment/Program.cs" />
+        <option value="$PROJECT_DIR$/DLLAssessment/NodeList.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="563" />
+    <option name="width" value="720" />
+    <option name="height" value="796" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DLLAssessment/bin/Debug/netcoreapp2.2/DLLAssessment.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DLLAssessment" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DLLAssessment/DLLAssessment.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f265c98-a55a-4ec4-ab7b-bf3ace83f7e8" name="Default Changelist" comment="" />
+      <created>1554857592068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554857592068</updated>
+      <workItem from="1554857593380" duration="1985000" />
+      <workItem from="1555064127131" duration="3380000" />
+      <workItem from="1555067702590" duration="2091000" />
+      <workItem from="1555140827586" duration="64000" />
+      <workItem from="1555140895602" duration="5222000" />
+      <workItem from="1555466388059" duration="219000" />
+      <workItem from="1555466633833" duration="920000" />
+      <workItem from="1555473534379" duration="7933000" />
+      <workItem from="1555484344698" duration="8209000" />
+      <workItem from="1555543716955" duration="25453000" />
+      <workItem from="1555649102910" duration="302000" />
+      <workItem from="1555658209892" duration="114000" />
+      <workItem from="1555835647639" duration="452000" />
+      <workItem from="1555836186867" duration="19000" />
+      <workItem from="1555848391566" duration="708000" />
+      <workItem from="1556494151037" duration="1705000" />
+      <workItem from="1556531632268" duration="92000" />
+      <workItem from="1556572171187" duration="695000" />
+      <workItem from="1556578453535" duration="247000" />
+      <workItem from="1558757491488" duration="976000" />
+      <workItem from="1558767005176" duration="26000" />
+      <workItem from="1558835939985" duration="361000" />
+      <workItem from="1559603830521" duration="2198000" />
+      <workItem from="1559707097586" duration="1317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64688000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="563" width="720" height="796" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.11158799" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.36972344" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37100738" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32923833" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32923833" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.27764127" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50143063" side_tool="true" weight="0.31203932" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32605532" />
+      <window_info anchor="bottom" id="Performance Profiler" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11158799" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.31203932" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37100738" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32923833" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32923833" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.27764127" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50143063" side_tool="true" weight="0.31203932" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32678133" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8335BAF6-0077-4CFE-A29E-A01CC7AB0A5D/cd/c5faffe0/Number.cs" />
+    <entry file="file://$USER_HOME$/Desktop/LiveStock/LiveStock/Cow.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DLLAssessment/StringNode.cs" />
+    <entry file="file://$PROJECT_DIR$/DLLAssessment/StringNodeList.cs" />
+    <entry file="file://$USER_HOME$/Downloads/WindowsFormsApp1/WindowsFormsApp1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <folding>
+            <element signature="e#0#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/WindowsFormsApp1/WindowsFormsApp1/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="83" column="69" lean-forward="true" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/SLLprogram/SLLprogram/SLL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1749">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5486B0B5-95C6-4BBE-8EDA-415056DF068B/c1/35f96784/Interop.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5486B0B5-95C6-4BBE-8EDA-415056DF068B/80/aa7bc22d/String.cs" />
+    <entry file="file://$PROJECT_DIR$/DLLAssessment/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="50" selection-end-column="13" />
+          <folding>
+            <marker date="1555835705942" expanded="false" signature="6:30" ph="..." />
+            <marker date="1555835705942" expanded="true" signature="55:9420" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="75:9418" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="108:3582" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="216:460" ph="/* 1. Reads the integers in file1.txt, file2.txt and file3.txt and inserts them ... */" />
+            <marker date="1555835705942" expanded="true" signature="609:783" ph="/* Users/jonsun/Desktop/QUICKfile1.txt ... */" />
+            <marker date="1555835705942" expanded="true" signature="849:1760" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="1354:1555" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="1590:1746" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="3621:3893" ph="/// This method use File.IO read all text and split unnecessary information convert and add elements to list ... " />
+            <marker date="1555835705942" expanded="true" signature="3965:4648" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="4229:4337" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="4351:4638" ph="/* string[] aFileContent = fileContent.Split(','); ... */" />
+            <marker date="1555835705942" expanded="true" signature="4691:4902" ph="/// Receive a string split elements and return a list ... " />
+            <marker date="1555835705942" expanded="true" signature="4972:5501" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="5141:5422" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="5193:5311" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="5332:5408" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="5548:6642" ph="/* This program is my own split method, read and create a substring add to list ... */" />
+            <marker date="1555835705942" expanded="true" signature="6653:6924" ph="/// The purpose of this method is to skip the duplicate elements and print the return intersection list ... " />
+            <marker date="1555835705942" expanded="true" signature="7018:7572" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="7190:7562" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="7366:7402" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="7424:7513" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="7624:7930" ph="/// This method will receive three lists  ... " />
+            <marker date="1555835705942" expanded="true" signature="8033:9374" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="8395:9364" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="8553:8793" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="8917:8993" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="9117:9193" ph="{...}" />
+            <marker date="1555835705942" expanded="true" signature="9274:9350" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DLLAssessment/Node.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1555474240493" expanded="true" signature="23:307" ph="{...}" />
+            <marker date="1555474240493" expanded="true" signature="47:305" ph="{...}" />
+            <marker date="1555474240493" expanded="true" signature="202:299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DLLAssessment/NodeList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+          <folding>
+            <marker date="1555643885277" expanded="true" signature="38:8423" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="66:8421" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="182:252" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="301:414" ph="/// //add value to the tail ... " />
+            <marker date="1555643885277" expanded="true" signature="454:903" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="618:704" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="768:893" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="946:1033" ph="/// Print node value from head to the tail ... " />
+            <marker date="1555643885277" expanded="true" signature="1063:1500" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="1271:1426" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="1510:1647" ph="/// go through the list, increment counter after node ... " />
+            <marker date="1555643885277" expanded="true" signature="1678:2118" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="1876:2040" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="2162:2485" ph="/// Get the median value of the list ... " />
+            <marker date="1555643885277" expanded="true" signature="2516:3834" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="2850:3796" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="2963:3179" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="3357:3597" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="3618:3782" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="3875:3978" ph="/// This method will use QuickSort method to sort the list ... " />
+            <marker date="1555643885277" expanded="true" signature="4005:4195" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="4234:4393" ph="/// QuickSort on Doubly Linked List ... " />
+            <marker date="1555643885277" expanded="true" signature="4445:4960" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="4468:4602" ph="/* - high is not out of boundary and ... */" />
+            <marker date="1555643885277" expanded="true" signature="4667:4950" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="4970:5290" ph="/// This method will ... " />
+            <marker date="1555643885277" expanded="true" signature="5342:6026" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="5531:5831" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="5588:5817" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="6070:6268" ph="/* public Node GetLast(Node node) ... */" />
+            <marker date="1555643885277" expanded="true" signature="6278:6381" ph="/// Using IsPrime to print prime number(5 elements a line) ... " />
+            <marker date="1555643885277" expanded="true" signature="6414:7044" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="6547:7000" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="6602:6950" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="6843:6932" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="7089:7245" ph="/// ignore all the even number expect 2  ... " />
+            <marker date="1555643885277" expanded="true" signature="7283:7987" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="7805:7951" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="8029:8110" ph="/// print the list from tail to head ... " />
+            <marker date="1555643885277" expanded="true" signature="8147:8375" ph="{...}" />
+            <marker date="1555643885277" expanded="true" signature="8220:8331" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

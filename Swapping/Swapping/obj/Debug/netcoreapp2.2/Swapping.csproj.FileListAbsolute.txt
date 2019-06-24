@@ -1,0 +1,11 @@
+/Users/jonsun/RiderProjects/Swapping/Swapping/bin/Debug/netcoreapp2.2/Swapping.deps.json
+/Users/jonsun/RiderProjects/Swapping/Swapping/bin/Debug/netcoreapp2.2/Swapping.runtimeconfig.json
+/Users/jonsun/RiderProjects/Swapping/Swapping/bin/Debug/netcoreapp2.2/Swapping.runtimeconfig.dev.json
+/Users/jonsun/RiderProjects/Swapping/Swapping/bin/Debug/netcoreapp2.2/Swapping.dll
+/Users/jonsun/RiderProjects/Swapping/Swapping/bin/Debug/netcoreapp2.2/Swapping.pdb
+/Users/jonsun/RiderProjects/Swapping/Swapping/obj/Debug/netcoreapp2.2/Swapping.csprojAssemblyReference.cache
+/Users/jonsun/RiderProjects/Swapping/Swapping/obj/Debug/netcoreapp2.2/Swapping.csproj.CoreCompileInputs.cache
+/Users/jonsun/RiderProjects/Swapping/Swapping/obj/Debug/netcoreapp2.2/Swapping.AssemblyInfoInputs.cache
+/Users/jonsun/RiderProjects/Swapping/Swapping/obj/Debug/netcoreapp2.2/Swapping.AssemblyInfo.cs
+/Users/jonsun/RiderProjects/Swapping/Swapping/obj/Debug/netcoreapp2.2/Swapping.dll
+/Users/jonsun/RiderProjects/Swapping/Swapping/obj/Debug/netcoreapp2.2/Swapping.pdb

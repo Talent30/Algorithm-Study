@@ -1,0 +1,11 @@
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/bin/Debug/netcoreapp2.2/MultiThread.deps.json
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/bin/Debug/netcoreapp2.2/MultiThread.runtimeconfig.json
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/bin/Debug/netcoreapp2.2/MultiThread.runtimeconfig.dev.json
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/bin/Debug/netcoreapp2.2/MultiThread.dll
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/bin/Debug/netcoreapp2.2/MultiThread.pdb
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/obj/Debug/netcoreapp2.2/MultiThread.csprojAssemblyReference.cache
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/obj/Debug/netcoreapp2.2/MultiThread.csproj.CoreCompileInputs.cache
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/obj/Debug/netcoreapp2.2/MultiThread.AssemblyInfoInputs.cache
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/obj/Debug/netcoreapp2.2/MultiThread.AssemblyInfo.cs
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/obj/Debug/netcoreapp2.2/MultiThread.dll
+/Users/jonsun/RiderProjects/MultiThread/MultiThread/obj/Debug/netcoreapp2.2/MultiThread.pdb

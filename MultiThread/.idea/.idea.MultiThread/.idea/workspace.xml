@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9302c8c5-88bb-4c99-9df0-f8e1150a852a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MultiThread/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="928">
+              <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+              <folding>
+                <marker date="1554692322541" expanded="false" signature="6:80" ph="..." />
+                <marker date="1554692322541" expanded="true" signature="103:3544" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="123:3542" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="294:411" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="443:1808" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="466:530" ph="/* DateTime beforDt = DateTime.Now; ... */" />
+                <marker date="1554692322541" expanded="true" signature="675:1117" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="1147:1262" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="1296:1411" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="1428:1543" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="1582:1671" ph="/* DateTime afterDt = DateTime.Now; ... */" />
+                <marker date="1554692322541" expanded="true" signature="1841:2556" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="1987:2350" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="2140:2336" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="2197:2318" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="2591:2931" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="2959:3227" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="3073:3217" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="3127:3203" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="3255:3536" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="3382:3526" ph="{...}" />
+                <marker date="1554692322541" expanded="true" signature="3436:3512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8335BAF6-0077-4CFE-A29E-A01CC7AB0A5D/19/ef8bb142/Interop.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MultiThread/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/LiveStock/LiveStock/Form1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/LiveStock/LiveStock/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/LiveStock/LiveStock/Form1.cs" />
+        <option value="$PROJECT_DIR$/MultiThread/Class1.cs" />
+        <option value="$PROJECT_DIR$/MultiThread/GetMax.cs" />
+        <option value="$PROJECT_DIR$/MultiThread/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MultiThread/bin/Debug/netcoreapp2.2/MultiThread.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MultiThread" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MultiThread/MultiThread.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9302c8c5-88bb-4c99-9df0-f8e1150a852a" name="Default Changelist" comment="" />
+      <created>1554062745769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554062745769</updated>
+      <workItem from="1554062748603" duration="2770000" />
+      <workItem from="1554363330814" duration="6103000" />
+      <workItem from="1554372993662" duration="6340000" />
+      <workItem from="1554381124024" duration="111000" />
+      <workItem from="1554381349473" duration="16000" />
+      <workItem from="1554381368206" duration="20000" />
+      <workItem from="1554381447097" duration="322000" />
+      <workItem from="1554415379894" duration="136000" />
+      <workItem from="1554454875099" duration="2761000" />
+      <workItem from="1554501054507" duration="2044000" />
+      <workItem from="1554687025106" duration="1473000" />
+      <workItem from="1554691934379" duration="673000" />
+      <workItem from="1554693619152" duration="315000" />
+      <workItem from="1555066665963" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23759000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08011445" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27641279" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3280098" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/LiveStock/LiveStock/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8335BAF6-0077-4CFE-A29E-A01CC7AB0A5D/19/ef8bb142/Interop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13558">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiThread/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/MultiThread/GetMax.cs" />
+    <entry file="file://$USER_HOME$/Desktop/LiveStock/LiveStock/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1284">
+          <caret line="113" column="38" selection-start-line="113" selection-start-column="38" selection-end-line="113" selection-end-column="38" />
+          <folding>
+            <marker date="1553839037930" expanded="true" signature="80:5195" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="120:5193" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="150:205" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="308:673" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="332:404" ph="/* create a variable store the file path ... */" />
+            <marker date="1553839037930" expanded="true" signature="581:663" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="718:2760" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="793:2644" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="1217:2458" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="1300:2440" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="1562:1777" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="1882:2103" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="2202:2418" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="2495:2630" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="2661:2749" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="2815:3341" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="2919:3219" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="3001:3084" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="3236:3331" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="3404:4451" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="3852:3986" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="4524:4545" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="4616:4637" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="4700:4721" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="4784:4805" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="4876:4897" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="4958:4979" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="5043:5095" ph="{...}" />
+            <marker date="1553839037930" expanded="true" signature="5166:5187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiThread/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+          <folding>
+            <marker date="1554692322541" expanded="false" signature="6:80" ph="..." />
+            <marker date="1554692322541" expanded="true" signature="103:3544" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="123:3542" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="294:411" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="443:1808" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="466:530" ph="/* DateTime beforDt = DateTime.Now; ... */" />
+            <marker date="1554692322541" expanded="true" signature="675:1117" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="1147:1262" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="1296:1411" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="1428:1543" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="1582:1671" ph="/* DateTime afterDt = DateTime.Now; ... */" />
+            <marker date="1554692322541" expanded="true" signature="1841:2556" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="1987:2350" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="2140:2336" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="2197:2318" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="2591:2931" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="2959:3227" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="3073:3217" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="3127:3203" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="3255:3536" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="3382:3526" ph="{...}" />
+            <marker date="1554692322541" expanded="true" signature="3436:3512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
