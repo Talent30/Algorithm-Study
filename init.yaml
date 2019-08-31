@@ -3,3 +3,6 @@ passwd:
     - name: core
       ssh_authorized_keys:
         - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8K6FZ1D8WS3C1ejdhGoCjYH2n2JASKPiHP5Jxo95fFuHVTvQhSlHK93iZA9vR3+zWjyzvn1qqGF6AksBsHokyJ3F2P8okEKxfPhViOaee+Qo+I0+BHFu/YDmuSK65S4mcMc0SveG3B8ecEAj+EXEzC1q1oJhO+RmKNhCbp3JGosFjMDTrrT9eKBSc4bWh3Ou1sGeALFDDhIgz8e7b5p+85VrHx6AEwqOu/BlneMVdLegVxEcFWKyddNJVweBtIQaIwEudQF3jN/kqaRMi7scrc21Hi+Iq2WU7b9rLH/mHj1g+UNn7us3ayw47h7OnByvuSwbvBCcuhkIxrpOJvEBv jon.sun30@gmail.com
+    - groups:  
+      - sudo  
+      - docker 
