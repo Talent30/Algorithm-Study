@@ -1,5 +1,4 @@
 #cloud-config  
-passwd:
   users:
     - name: core
       ssh_authorized_keys:
